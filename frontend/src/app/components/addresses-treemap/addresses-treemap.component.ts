@@ -63,7 +63,7 @@ export class AddressesTreemap implements OnChanges {
       },
       series: <TreemapSeriesOption[]>[
         {
-          height: 300,
+          height: 240,
           left: 0,
           right: 0,
           bottom: 0,
